@@ -1,23 +1,22 @@
 # Design (Figma)
 
 File: https://www.figma.com/design/BRc0JQn4dxlRis59FwbfKi/Untitled
+Theme: **A · Pure Intelligence** (ADR-0004). Tokens = Figma variables "VSN Tokens" → use same names in code (`color/leaf-700` → `--color-leaf-700`).
 
-**Feel:** AI + Insan + Kisan. Rang: Leaf green = kisan · Violet→Sky gradient = AI · Wheat yellow = insaan/expert.
-Fonts: Plus Jakarta Sans + Noto Nastaliq Urdu. Tokens: Figma variables collection "VSN Tokens" (colors, space, radius) — use same names in code (`color/leaf-700` → `--color-leaf-700`).
-
-| Page | Frames |
+| Page | What is there |
 |---|---|
-| 00 Cover & Design System | Cover, color palette, components: Button (Primary / AI / Outline), Badge (AI / Expert / Probable / Alert) |
-| 01 Website | v1 light landing · **v2 AI-first dark landing (recommended)**: AI orb hero, "AI ka dimagh" 7-step pipeline, 16-system catalog, AI+Insan+Kisan, CTA |
-| 02 Farmer App (Mobile) | Sign up/language, Dashboard, Ask AI chat, Photo diagnosis, Crop timeline (+ Bottom Nav component) |
-| 03 Expert Dashboard | Review queue + case detail (AI draft, sources, farm history, Approve / Edit & Send / Ask / Reject) |
-| 04 Admin & Org | Admin overview (KPIs, AI cost, quality, knowledge sources) · Organization (B2B) dashboard |
+| 00 Cover & Design System | Cover, palette, Button + Badge components, 3 theme option boards (A chosen) |
+| 01 Website | **★ Website · FINAL (English · Theme A)** — hero with AI orb, "How the AI thinks" pipeline, 16-system catalog, audiences, pricing, FAQ, CTA · Log in/Sign up + OTP · Mobile web · About & Contact · (older v1/v2 kept for reference) |
+| 02 Farmer App | 18 screens: sign up, farm add, crop add, dashboard, ask AI, photo diagnosis, timeline, my farms, calendar, weather, history, costs & profit, plan upgrade, payment, profile, notifications, WhatsApp channel, states (AI thinking / offline / empty / error) |
+| 03 Expert Dashboard | Review queue + case detail, completed cases, availability & profile |
+| 04 Admin & Org | Admin: overview, users, experts, knowledge sources, alert rules, crops & regions, AI settings, plans & payments, audit log · Org: overview, farmers |
+| 05 Sitemap & Flows | All pages per surface + main user flow |
 
-## Systems catalog shown on website (kisan ke liye)
-| System | Phase |
+## Systems catalog (website)
+| Phase | Systems |
 |---|---|
-| Farm Memory, AI Advisor (Urdu), Photo Diagnosis, Expert Review, Mausam Alerts, Crop Calendar, Crop Timeline | MVP |
-| Voice + WhatsApp, Mandi Rates & Sell Timing, Kharcha & Munafa, Follow-up & Natije, Nakli Dawai Check, Offline Mode | Jald |
-| Mitti & Pani Test, Qarza & Insurance (B2B), Satellite Fasal Sehat | Baad me |
+| Launch | Farm Memory, AI Advisor, Photo Diagnosis, Expert Review, Weather Alerts, Crop Calendar, Crop Timeline |
+| Soon | WhatsApp & Voice, Market Prices, Costs & Profit, Outcome Tracking, Fake Input Check, Offline Mode |
+| Later | Soil & Water Tests, Credit & Insurance, Satellite Crop Health |
 
-New items (Mandi rates, Nakli dawai check, Offline, Mitti test, Qarza/Insurance, Satellite) come from banks/options-bank.md ideas — add task cards before building.
+Note: numbers in mockups (users, prices, ratings) are sample data, not real.
