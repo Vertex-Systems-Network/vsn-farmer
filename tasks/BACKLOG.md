@@ -3,21 +3,21 @@
 Format: see `_template.md`. Pick in order unless CURRENT.md says otherwise.
 
 ### T-001: Resolve SRS open questions
-- Status: todo
+- Status: doing (defaults proposed; farmer validation by owner)
 - Phase: 0
 - FR refs: §10 Open Questions
 - Banks to read: revenue-model
 - Done when: Answers recorded in docs/research/open-questions.md (crops, districts, sources, providers, free limit, experts/SLA, field agent)
 
 ### T-002: Verify & extend Systems Bank
-- Status: todo
+- Status: done
 - Phase: 0
 - FR refs: —
 - Banks to read: systems/*
 - Done when: Each system has sources + dates; status updated; new PK competitors added
 
 ### T-003: Choose providers
-- Status: todo
+- Status: done
 - Phase: 0
 - FR refs: FR-6, FR-7, FR-8, FR-2, FR-13
 - Banks to read: llm-provider, diagnosis-api, weather-api, otp-sms, payments, vector-db

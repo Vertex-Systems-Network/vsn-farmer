@@ -3,15 +3,17 @@
 > Any AI tool: start here after AGENTS.md. Update this file at the end of every session.
 
 ## In progress
-- (none)
+- T-001: owner validating defaults with farmers (docs/OWNER-GUIDE.md checklist)
 
-## Next to pick
-1. T-001 Defaults proposed in docs/research/open-questions.md — validate with farmers
-2. T-002 Verify & extend Systems Bank (AI can do with web research)
-3. T-003 Choose providers (after T-002)
+## Next to pick (AI)
+1. T-004 Scaffold monorepo + CI (apps/web Next.js, apps/api FastAPI) — follow ADR-0001/0002
+2. T-005 DB schema + migrations
+3. T-006 i18n Urdu RTL / English
 
 ## Recently done
-- Repo set up for AI-native development: AGENTS.md, banks, research, roadmap, backlog.
+- T-002 Systems Bank verified + 5 new Pakistani competitors (market is crowded → differentiate on Farm Memory, expert check, outcomes)
+- T-003 Provider choices scored → ADR-0002
+- Owner guide added
 
 ## Notes / blockers
 - Revenue model is the riskiest assumption — see docs/research/assumptions-review.md.

@@ -2,7 +2,7 @@
 - Region / users: Pakistan; agribusiness, sugar mills, lenders
 - Business model: B2B SaaS
 - Status: needs-verification
-- Sources: (add links + date checked)
+- Sources: not re-checked on 2026-10-22 (known landscape)
 
 ## Features
 - Satellite crop monitoring, yield estimates, credit scoring

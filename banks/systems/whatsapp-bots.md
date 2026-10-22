@@ -2,7 +2,7 @@
 - Region / users: Africa / global
 - Business model: Donor / NGO
 - Status: needs-verification
-- Sources: (add links + date checked)
+- Sources: not re-checked on 2026-10-22 (known landscape)
 
 ## Features
 - WhatsApp GenAI farmer bots with voice

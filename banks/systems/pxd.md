@@ -2,7 +2,7 @@
 - Region / users: Pakistan, India, Africa
 - Business model: Non-profit; govt / donor
 - Status: needs-verification
-- Sources: (add links + date checked)
+- Sources: not re-checked on 2026-10-22 (known landscape)
 
 ## Features
 - Phone-based advisory at scale, A/B-tested messages

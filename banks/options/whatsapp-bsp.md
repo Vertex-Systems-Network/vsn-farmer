@@ -1,5 +1,5 @@
 # Options: WhatsApp channel
-- Status: needs-verification
+- Status: open (decide at its task; see ADR-0002)
 - Related FR: FR-8.4
 - Decision ADR: —
 

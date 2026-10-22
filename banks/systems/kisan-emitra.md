@@ -2,7 +2,7 @@
 - Region / users: India
 - Business model: Govt / startup
 - Status: needs-verification
-- Sources: (add links + date checked)
+- Sources: not re-checked on 2026-10-22 (known landscape)
 
 ## Features
 - Multilingual AI chatbot for schemes & crops

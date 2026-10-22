@@ -1,14 +1,13 @@
 # Options: Payments
-- Status: needs-verification
+- Status: chosen (ADR-0002) — phase 6
 - Related FR: FR-13
-- Decision ADR: —
 
-| Option | Impact | PK fit | Cost | Effort | Risk | Total | Notes / source |
+| Option | Impact | PK fit | Cost | Effort | Risk | Total | Notes |
 |---|---|---|---|---|---|---|---|
-| JazzCash | | | | | | | |
-| Easypaisa | | | | | | | |
-| Aggregator (e.g. Safepay / PayFast) | | | | | | | |
-| Card via Stripe-like (limited in PK) | | | | | | | |
+| Aggregator (Safepay / PayFast) | 5 | 5 | 3 | 4 | 4 | 21 | One integration → JazzCash, Easypaisa, cards (vendor claims; verify official docs) |
+| JazzCash direct | 4 | 5 | 4 | 2 | 3 | 18 | |
+| Easypaisa direct | 4 | 5 | 4 | 2 | 3 | 18 | |
+| International card gateway | 2 | 1 | 3 | 4 | 3 | 13 | |
 
 ## Recommendation
-Easypaisa + JazzCash cover most farmers; aggregator reduces integration work.
+Aggregator (Safepay or PayFast) — decide by merchant onboarding ease when we reach T-019.

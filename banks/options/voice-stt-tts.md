@@ -1,5 +1,5 @@
 # Options: Urdu voice (STT/TTS)
-- Status: needs-verification
+- Status: open (decide at its task; see ADR-0002)
 - Related FR: FR-14
 - Decision ADR: —
 

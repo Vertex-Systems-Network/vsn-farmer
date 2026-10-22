@@ -1,5 +1,5 @@
 # ADR-0001: Base stack
-- Status: proposed
+- Status: accepted
 - Date: 2026-10-22
 - Options considered: banks/options/hosting.md, banks/options/vector-db.md
 ## Context

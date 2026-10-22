@@ -2,7 +2,7 @@
 - Region / users: Global enterprise
 - Business model: Enterprise subscription
 - Status: needs-verification
-- Sources: (add links + date checked)
+- Sources: not re-checked on 2026-10-22 (known landscape)
 
 ## Features
 - Farm management, satellite, prescriptions
