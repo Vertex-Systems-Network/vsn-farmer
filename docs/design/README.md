@@ -10,7 +10,7 @@ Theme: **A · Pure Intelligence** (ADR-0004). Tokens = Figma variables "VSN Toke
 | 02 Farmer App | 18 screens: sign up, farm add, crop add, dashboard, ask AI, photo diagnosis, timeline, my farms, calendar, weather, history, costs & profit, plan upgrade, payment, profile, notifications, WhatsApp channel, states (AI thinking / offline / empty / error) |
 | 03 Expert Dashboard | Review queue + case detail, completed cases, availability & profile |
 | 04 Admin & Org | Admin: overview, users, experts, knowledge sources, alert rules, crops & regions, AI settings, plans & payments, audit log · Org: overview, farmers |
-| 05 Sitemap & Flows | All pages per surface + main user flow |
+| 05 Sitemap & Flows | Overview; full list in docs/design/page-inventory.md (≈100 pages/screens) |
 
 ## Systems catalog (website)
 | Phase | Systems |
