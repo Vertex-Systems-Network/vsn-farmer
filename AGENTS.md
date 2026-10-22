@@ -5,6 +5,7 @@
 > Owner is non-technical: make technical decisions yourself (record them in banks + ADRs) and explain results in simple Roman Urdu. Owner tasks: `docs/OWNER-GUIDE.md`.
 
 ## What we are building
+A **platform** (not just an app): public website, farmer web app (PWA), mobile app, WhatsApp/voice, Expert/Admin/Organization dashboards, subscription plans & payments — one backend. See `docs/plan/platform.md`.
 Urdu/English, mobile-first AI advisory for Pakistani farmers: Farm Memory + Crop Timeline, RAG answers from approved sources,
 photo diagnosis, weather alerts, crop calendar, Expert review of risky answers, Admin panel. Full spec: `docs/srs/AI_Farmer_Advisory_SRS.md`.
 
@@ -29,6 +30,8 @@ photo diagnosis, weather alerts, crop calendar, Expert review of risky answers, 
 | `tasks/` | Backlog, current work, task template |
 | `apps/web` (planned) | Next.js + TypeScript PWA (public, /app, /expert, /admin) |
 | `apps/api` (planned) | Python FastAPI backend |
+| `apps/mobile` (planned) | Expo React Native app (Android first) |
+| `packages/` (planned) | Shared types, API client, i18n |
 
 ## Rules
 - Requirements trace: reference FR IDs in tasks, PRs and code comments where useful.

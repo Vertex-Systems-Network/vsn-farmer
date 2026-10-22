@@ -12,4 +12,6 @@ Changes vs SRS: WhatsApp + Urdu voice moved earlier (MVP-lite) because of low li
 | 5 Signals | Weather + alerts, photo diagnosis | FR-7, FR-8 | T-016…T-017 |
 | 5b Reach (moved up) | WhatsApp channel + Urdu voice in/out | FR-8.4, FR-14 | T-018 |
 | 6 Money | Plans, JazzCash/Easypaisa, B2B org dashboard pilot | FR-13 | T-019…T-020 |
+| 6c Mobile app | Expo Android app reusing web logic | §5, Phase 5 | T-022 |
+| 6d Org dashboard | B2B partner dashboard + seats | later roles | T-020 |
 | 7 Outcomes | Follow-up tracking, expenses, analytics | FR-9, FR-10 | T-021 |

@@ -1,7 +1,7 @@
 # Owner Guide (non-technical) — simple Roman Urdu
 
 ## Project kya hai
-Ek app jo kisan ko Urdu me uski fasal ke baare me mashwara deti hai: sawal poochho, photo bhejo, mausam ka alert lo.
+Ek **platform** (website + mobile app + dashboards + payment plans) jo kisan ko Urdu me uski fasal ke baare me mashwara deti hai: sawal poochho, photo bhejo, mausam ka alert lo.
 AI jawab deta hai, aur khatarnak sawal (jaise dawai ki miqdaar) pehle expert check karta hai.
 
 ## Kaam ki taqseem

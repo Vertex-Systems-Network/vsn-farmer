@@ -149,3 +149,10 @@ Format: see `_template.md`. Pick in order unless CURRENT.md says otherwise.
 - Banks to read: —
 - Done when: Outcomes stored and in admin reports
 
+### T-022: Mobile app (Expo, Android first)
+- Status: todo
+- Phase: 6c
+- FR refs: §5, NFR compatibility
+- Banks to read: mobile-app
+- Done when: Login, dashboard, Ask AI, timeline work on cheap Android; Play Store internal test
+

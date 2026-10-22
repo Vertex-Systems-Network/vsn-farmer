@@ -6,7 +6,7 @@
 - T-001: owner validating defaults with farmers (docs/OWNER-GUIDE.md checklist)
 
 ## Next to pick (AI)
-1. T-004 Scaffold monorepo + CI (apps/web Next.js, apps/api FastAPI) — follow ADR-0001/0002
+1. T-004 Scaffold monorepo + CI (apps/web, apps/api, apps/mobile placeholder, packages/) — follow ADR-0001/0002/0003
 2. T-005 DB schema + migrations
 3. T-006 i18n Urdu RTL / English
 
