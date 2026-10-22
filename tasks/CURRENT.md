@@ -14,6 +14,7 @@
 - T-002 Systems Bank verified + 5 new Pakistani competitors (market is crowded → differentiate on Farm Memory, expert check, outcomes)
 - T-003 Provider choices scored → ADR-0002
 - Owner guide added
+- UI designed in Figma (website v1+v2, 5 mobile screens, expert, admin, org) — see docs/design
 
 ## Notes / blockers
 - Revenue model is the riskiest assumption — see docs/research/assumptions-review.md.

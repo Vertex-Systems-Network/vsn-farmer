@@ -24,6 +24,7 @@ photo diagnosis, weather alerts, crop calendar, Expert review of risky answers, 
 | `docs/srs/` | Requirements (FR-x.y IDs) |
 | `docs/research/` | Assumptions review, market comparison |
 | `docs/plan/` | Roadmap, architecture |
+| `docs/design/` | Figma link, design tokens, screen list |
 | `docs/decisions/` | ADRs (numbered, never edited after accepted — supersede instead) |
 | `banks/options/` | Options Bank: researched choices per decision point, scored |
 | `banks/systems/` | Systems Bank: studied competitor/reference systems + "improve on it" ideas |

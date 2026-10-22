@@ -9,4 +9,5 @@ Urdu/English AI farming advisory **platform** for Pakistan: website, farmer app 
 - Platform: [overview](docs/plan/platform.md)
 - Plan: [roadmap](docs/plan/roadmap.md) · [architecture](docs/plan/architecture.md)
 - Banks: [options](banks/options-bank.md) · [systems](banks/systems-bank.md)
+- Design: [Figma + design notes](docs/design/README.md)
 - Working with AI tools: [AGENTS.md](AGENTS.md) → [tasks/CURRENT.md](tasks/CURRENT.md)
