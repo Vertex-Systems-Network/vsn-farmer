@@ -6,7 +6,7 @@
 - (none)
 
 ## Next to pick
-1. T-001 Resolve SRS open questions (needs product owner input)
+1. T-001 Defaults proposed in docs/research/open-questions.md — validate with farmers
 2. T-002 Verify & extend Systems Bank (AI can do with web research)
 3. T-003 Choose providers (after T-002)
 
