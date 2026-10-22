@@ -1,5 +1,7 @@
 # vsn-farmer — AI Farmer Advisory
 
+**Non-technical owner? Start here → [docs/OWNER-GUIDE.md](docs/OWNER-GUIDE.md)**
+
 Urdu/English AI farming advisor for Pakistan (SaaS + PWA, Expert review, Admin).
 
 - Spec: [docs/srs](docs/srs/AI_Farmer_Advisory_SRS.md)

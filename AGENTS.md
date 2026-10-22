@@ -2,6 +2,7 @@
 
 > Single source of truth for ALL AI coding tools (Claude Code, Cursor, Copilot, Gemini, Codex, Windsurf…).
 > Tool-specific files (CLAUDE.md, GEMINI.md, .cursor/rules, .github/copilot-instructions.md, .windsurfrules) only point here.
+> Owner is non-technical: make technical decisions yourself (record them in banks + ADRs) and explain results in simple Roman Urdu. Owner tasks: `docs/OWNER-GUIDE.md`.
 
 ## What we are building
 Urdu/English, mobile-first AI advisory for Pakistani farmers: Farm Memory + Crop Timeline, RAG answers from approved sources,
